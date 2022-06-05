@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 /sanity/node_modules
+sanitytwitterv2
+sanitytwitterv2/node_modules
 
 # testing
 /coverage
