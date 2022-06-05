@@ -7,3 +7,4 @@ export const fetchTweets = async () => {
     return tweets;
 }
 
+console.log('change')
